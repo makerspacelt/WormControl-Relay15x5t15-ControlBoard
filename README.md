@@ -4,14 +4,7 @@
 ![PCB 3d main](gen/img_pcb_3d_main.png)
 
 
-WormControl Relay Control and User Interface boards
-
-
-NOTE: This is only a prototype now, so things might not work and everything might change 
-
-Basic target features:
-
-* Compatibility with esphome and Home Assistant
+WormControl Relay Control boards
 
 
 

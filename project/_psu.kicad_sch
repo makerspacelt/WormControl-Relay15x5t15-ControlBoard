@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "WormControl-Relay15x5t15-ControlUI")
-    (date "2024-12-19")
-    (rev "0.1")
+    (title "WormControl-Relay15x5t15-ControlBoard")
+    (date "2026-03-19")
+    (rev "0.4")
     (company "makerspace.lt")
   )
 
@@ -1909,9 +1909,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724011370958848" (id 3) (at 36.83 62.23 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "LCSC#" "" (id 4) (at 36.83 62.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "jlc-part-type" "B" (id 5) (at 36.83 62.23 0)

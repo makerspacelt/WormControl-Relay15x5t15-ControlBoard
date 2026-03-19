@@ -37,7 +37,7 @@ outputs:
       color_theme: '_builtin_default'
       pages:
         - sheet: 'Drawings'
-          scaling: 2
+          scaling: 1
           layers: 
           - layer: F.Mask
             color: '#111111'
@@ -125,6 +125,7 @@ outputs:
           name: 'LCSC Part Number'
         - 'Value'
         - 'Footprint'
+        - 'References'
       group_fields: ['lcsc#']
       csv:
         hide_pcb_info: true

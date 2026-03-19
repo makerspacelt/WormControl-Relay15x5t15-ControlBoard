@@ -3,7 +3,7 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.10+dfsg-1~bpo11+1"
+      "Version": "6.0.11+dfsg-1"
     },
   },
   "GeneralSpecs": {
@@ -14,7 +14,7 @@
     },
     "Size": {
       "X": 84.1,
-      "Y": 84.1
+      "Y": 41.1
     },
     "LayerNumber": 4,
     "BoardThickness": 1.6,
