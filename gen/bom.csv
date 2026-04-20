@@ -28,7 +28,7 @@
 "27","300mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23","APE8865N-33-HF-3","U302","JTD6206-3.3V","SOT-23","1"," ","https://www.lcsc.com/datasheet/C42443428.pdf","C5446","B","C42443428"
 "28","300mA Low Dropout Voltage Regulator, Fixed Output 0.9V, SOT-23-5","TLV71209_SOT23-5","U301","LW6550A23E","SOT-23-5","1"," ","https://www.lcsc.com/datasheet/C20754712.pdf","C20754712","E",""
 "29","1.2 A Simple Buck Regulator, 3-26V input, 1.5Mhz","AOZ1280CI","U303","ME3121AM6G","SOT-23-6","1"," ","https://m.huazhoucn.com/upFiles/common/2022/12/ME3121_Series_E1.0.pdf","C2932938","E",""
-"30","Digital Temperature Sensor with I2C/SMBus Interface, +/-2° C, one-shot conversion, alert, SOT-23-6","TMP101","U101","TMP102","SOT-563","1"," ","https://www.lcsc.com/datasheet/C99269.pdf","C99269","E",""
+"30","Digital Temperature Sensor, +/- 3 °C, low-Power, SMBus, 12 bit, Two-Wire Serial Interface, SOT-563","TMP102xxDRL","U101","TMP102","SOT-563","1"," ","https://www.ti.com/lit/ds/symlink/tmp102.pdf","C99269","E",""
 "31","Very low capacitance ESD protection diode, 2 data-line, SOT-23-6","USBLC6-2SC6","U401","USBLC6-2SC6","SOT-23-6","1"," ","https://www.lcsc.com/datasheet/lcsc_datasheet_2311091738_UMW-Youtai-Semiconductor-Co---Ltd--USBLC6-2SC6_C2687116.pdf","C2687116","E",""
 "32","High-Speed CAN Transceiver, standby mode, split pin, SOIC-8","TJA1042T","U403","XL1050","SOIC-8_3.9x4.9mm_P1.27mm","1"," ","https://www.lcsc.com/datasheet/lcsc_datasheet_2309141025_XINLUDA-XL1050_C609746.pdf","C609746","E",""
 "33","esp32-C3FH4X 4MB flash QFN32-1EP 5x5mm EP3.7x3.7mm","esp32-C3FH4X","U402","esp32-C3FH4X","QFN-32-1EP_5x5mm_P0.5mm_EP3.65x3.65mm","1"," ","https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf","C2858491","E",""

@@ -6,8 +6,8 @@
 
   (title_block
     (title "WormControl-Relay15x5t15-ControlBoard")
-    (date "2026-03-19")
-    (rev "0.5")
+    (date "2026-04-20")
+    (rev "0.6")
     (company "makerspace.lt")
   )
 
